@@ -7,7 +7,7 @@ Based on a real-world situation, we were given existing code and asked to refact
 
 The ficticious guest was a marketing agency, and I reworked the code to make it more efficient and organized to make the structure of the HTML more semantic.
 
-![Screenshot of finished website](C:\Users\missy\Pictures\screencapture-file-D-GitHub-Repositories-01-HTML-Git-CSS-CodeRefactorAssignment-WeekOne-Develop-index-html-2020-12-12-15_41_12.png)
+![Screenshot of finished website] 
 # Installation
 No installations required for this project.
 # Usage
