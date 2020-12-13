@@ -7,7 +7,7 @@ Based on a real-world situation, we were given existing code and asked to refact
 
 The ficticious guest was a marketing agency, and I reworked the code to make it more efficient and organized to make the structure of the HTML more semantic.
 
-![Screenshot of finished website] 
+[WeekOne.png](https://postimg.cc/Y4xCNh0N)
 # Installation
 No installations required for this project.
 # Usage
