@@ -20,7 +20,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-[WeekOne.png](https://i.postimg.cc/28q2Vt1j/Code-Refactor-Screenshot.png)
+[Code-Refactor-Screenshot.png](https://postimg.cc/kBmxHfNL)
 
 # Installation
 No installations required for this project.
