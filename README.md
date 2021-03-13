@@ -8,6 +8,7 @@ Based on a real-world situation, we were given existing code and asked to refact
 The ficticious guest was a marketing agency, and I reworked the code to make it more efficient and organized to make the structure of the HTML more semantic.
 
 # Acceptance Criteria
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -19,8 +20,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
-[Code-Refactor-Screenshot.png](https://postimg.cc/kBmxHfNL)
+![Code-Refactor-Screenshot.png](https://postimg.cc/kBmxHfNL)
 
 # Installation
 No installations required for this project.
