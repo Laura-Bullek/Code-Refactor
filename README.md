@@ -15,3 +15,5 @@ Below are the links to this project:
 [GitHub] (https://github.com/Laura-Bullek/CodeRefactorAssignment-WeekOne-)
 
 [URL] (https://laura-bullek.github.io/CodeRefactorAssignment-WeekOne-/)
+
+The end. 
