@@ -22,7 +22,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-[![Code-Refactor-Screenshot.png](https://i.postimg.cc/28q2Vt1j/Code-Refactor-Screenshot.png)](https://postimg.cc/kBmxHfNL)
+[![Code-Refactor-Screenshot.png](https://i.postimg.cc/pTfyGRcV/Code-Refactor-Screenshot.png)](https://postimg.cc/PpqtNsk0)
 
 # Installation
 No installations required for this project.
