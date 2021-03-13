@@ -14,6 +14,6 @@ No installations required for this project.
 
 # Usage
 Below are the links to this project:
-[GitHub] (https://github.com/Laura-Bullek/CodeRefactorAssignment-WeekOne-)
+[GitHub] (https://github.com/Laura-Bullek/Code-Refactor)
 
-[URL] (https://laura-bullek.github.io/CodeRefactorAssignment-WeekOne-/)
+[URL] (https://laura-bullek.github.io/Code-Refactor/)
